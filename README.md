@@ -25,3 +25,15 @@ La idea sería que los usuarios puedan encontrar y agregar eventos (conciertos, 
 10. **Semana 10**: Testing y ajustes finales. Presentación del proyecto final.
 
 Esta estructura permite que los estudiantes aprendan a manejar autenticación, bases de datos y mapas aplicando tecnologías que se usan en aplicaciones del mundo real.
+
+## Credenciales de Supabase
+
+- Nombre del proyecto: `idat-events-app`
+- Contraseña: `Po26AKuIcigjxFSf`
+
+## Variables de entorno
+
+```env
+EXPO_PUBLIC_SUPABASE_URL=https://wbzxqzqkbkkkfioroqpa.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndienhxenFrYmtra2Zpb3JvcXBhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjYzMjk3OTEsImV4cCI6MjA0MTkwNTc5MX0.a8llYfWqMW_E6Qv0Pg8b-5QAl1SN5OjfpcBX29Z3NTM
+```
