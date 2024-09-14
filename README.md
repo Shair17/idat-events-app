@@ -11,7 +11,7 @@ La idea sería que los usuarios puedan encontrar y agregar eventos (conciertos, 
 5. **Favoritos**: Los usuarios pueden guardar eventos como favoritos para consultarlos más tarde.
 6. **Comentarios/Reseñas**: Agregar la opción de que los usuarios comenten o dejen reseñas de los eventos a los que asistieron.
 
-## Plan de desarrollo de 11 semanas
+## Plan de desarrollo de 10 semanas
 
 1. **Semana 1**: Introducción al proyecto, setup de React Native y Supabase, creación del proyecto básico.
 2. **Semana 2**: Configuración de autenticación con Supabase (registro, inicio de sesión, cierre de sesión).
