@@ -1,0 +1,4 @@
+export const EXPO_PUBLIC_SUPABASE_URL =
+  "https://wbzxqzqkbkkkfioroqpa.supabase.co";
+export const EXPO_PUBLIC_SUPABASE_ANON_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndienhxenFrYmtra2Zpb3JvcXBhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjYzMjk3OTEsImV4cCI6MjA0MTkwNTc5MX0.a8llYfWqMW_E6Qv0Pg8b-5QAl1SN5OjfpcBX29Z3NTM";
